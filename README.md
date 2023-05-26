@@ -1,5 +1,5 @@
-<h1> SISTEMA DE JOGOS </h>
+# SISTEMA DE JOGOS 
 
 > status do projeto: Em desenvolvimento
 
-para rodar esse projeto em sua máquina vocÊ precisa usar o Python + SQL
+para rodar esse projeto em sua máquina vocÊ precisa usar o Python + Pycharm
