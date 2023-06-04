@@ -1,5 +1,5 @@
-# SISTEMA DE JOGOS 
+# Portifólio 
 
 > status do projeto: Em desenvolvimento
 
-para rodar esse projeto em sua máquina vocÊ precisa usar o Python + Pycharm =
+Para rodar esse projeto em sua máquina vocÊ precisa usar o Visual Studio Code ;)
