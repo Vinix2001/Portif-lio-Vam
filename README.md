@@ -1,5 +1,5 @@
 # Portifólio 
 
-> status do projeto: Em desenvolvimento
+> status do projeto: Comcluído
 
-Para rodar esse projeto em sua máquina vocÊ precisa usar o Visual Studio Code ;)
+(https://vinix2001.github.io/Portif-lio-Vam/) ;)
